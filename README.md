@@ -1,4 +1,3 @@
 # walkability_map
 
-# Hello
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe src="index.html" height="600" width="800"></iframe>
